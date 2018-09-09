@@ -8,7 +8,7 @@ Now that the CMS is work correctly, other folk can start adding content.
 #### Next steps
 
 1. Think about what we want to use this site for?
-2. Do we need to re-skin it --- this was just the first "look" that I chose.
+2. Do we need to re-skin it --- this was just the first "look" that I chose. There are lots of [themes](https://themes.gohugo.io/0 available. Or we can write out own.
 3. Who else should be allowed to edit it?
 
 Anything else. I think not.
