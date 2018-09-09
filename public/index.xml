@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oganizational Knowledge And Practices of Interdisiciplinarity</title>
+    <link>httpi://okapi.group/</link>
+    <description>Recent content on Oganizational Knowledge And Practices of Interdisiciplinarity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Sep 2018 15:24:00 +1200</lastBuildDate>
+    
+	<atom:link href="httpi://okapi.group/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Okapi Lives</title>
+      <link>httpi://okapi.group/posts/okapi-lives/</link>
+      <pubDate>Sun, 09 Sep 2018 15:24:00 +1200</pubDate>
+      
+      <guid>httpi://okapi.group/posts/okapi-lives/</guid>
+      <description>And so, we have a site up and working for the group.</description>
+    </item>
+    
+  </channel>
+</rss>

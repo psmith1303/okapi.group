@@ -1,0 +1,4 @@
+baseURL = "httpi://okapi.group/"
+languageCode = "en-us"
+title = "Oganizational Knowledge And Practices of Interdisiciplinarity"
+theme = "ananke"
