@@ -1,4 +1,4 @@
 baseURL = "https://okapi.group/"
 languageCode = "en-us"
 title = "Oganizational Knowledge And Practices of Interdisiciplinarity"
-theme = "ananke"
+theme = "hugo-universal-theme"
